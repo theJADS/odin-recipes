@@ -1,0 +1,1 @@
+This is the first Odin Project activity, creating a basic recipe website. I will have demonstrated basic understanding and manipulation of HTML code once completed.
